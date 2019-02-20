@@ -7,4 +7,4 @@ And below, there is actual logic to show credentials if we manage to stop redire
 Just use some tool / script that does not follow redirects, for example: `curl`:  
 `curl --user natas22:chG9fbe1Tq2eWVMgjYYD1MsfIvN461kJ http://natas22.natas.labs.overthewire.org\?revelio`
 
-`Natas 22 password: D0vlad33nQF0Hz2EP255TP5wSW9ZsRSE`
+`Natas 23 password: D0vlad33nQF0Hz2EP255TP5wSW9ZsRSE`
