@@ -1,7 +1,5 @@
 # URL: http://natas27.natas.labs.overthewire.org/
 
-JWwR438wkgTsNKBbcJoowyysdM82YjeF
-
 # Solution:
 
 Thanks to `semchapeu` from `OverTheWire` IRC Channel for hints and patience : )  
